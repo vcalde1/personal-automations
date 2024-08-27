@@ -18,6 +18,9 @@ hooptober_criteria = {
     "countries": {
         "requirements": {"count": 6},
         "preferences": {}},
+    "languages": {
+        "requirements": {},
+        "preferences": {}},
     "genres": {
         "requirements": {
             "Post Apocalyptic or Natural Disaster": {"count": 2},
