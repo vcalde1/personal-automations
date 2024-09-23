@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Lifeforce",
+    "fulfilled_categories": [
+      "Alternate versions",
+      "Tobe Hooper"
+    ],
+    "movie_score": 16,
+    "countries": [
+      "United Kingdom"
+    ],
+    "decade": 1980,
+    "connections": []
+  },
+  {
+    "title": "Scream Blacula Scream",
+    "fulfilled_categories": [],
+    "movie_score": 11,
+    "countries": [
+      "United States"
+    ],
+    "decade": 1970,
+    "connections": [
+      "Blacula"
+    ]
+  },
+  {
+    "title": "Genuine: The Tragedy of a Vampire",
+    "fulfilled_categories": [
+      "Robert Wiene"
+    ],
+    "movie_score": 13,
+    "countries": [
+      "Germany"
+    ],
+    "decade": 1920,
+    "connections": []
+  },
+  {
+    "title": "House",
+    "fulfilled_categories": [
+      "Horror comedies",
+      "Horror franchise",
+      "New World Pictures"
+    ],
+    "movie_score": 5,
+    "countries": [
+      "United States"
+    ],
+    "decade": 1980,
+    "connections": [
+      "House II: The Second Story",
+      "House III: The Horror Show",
+      "House IV"
+    ]
+  }
+]

@@ -1,0 +1,981 @@
+[
+  {
+    "title": "Creepshow 2",
+    "fulfilled_categories": [
+      "Alternate versions",
+      "New World Pictures"
+    ],
+    "movie_score": 2,
+    "countries": [
+      "United States"
+    ],
+    "decade": 1980,
+    "connections": [
+      "Creepshow",
+      "Creepshow 3",
+      "Creepshow"
+    ]
+  },
+  {
+    "title": "Vampire in Brooklyn",
+    "fulfilled_categories": [
+      "Horror comedies",
+      "Wes Craven",
+      "Starring a black woman"
+    ],
+    "movie_score": 5,
+    "countries": [
+      "United States"
+    ],
+    "decade": 1990,
+    "connections": []
+  },
+  {
+    "title": "Tenebrae",
+    "fulfilled_categories": [
+      "Alternate versions",
+      "Italian"
+    ],
+    "movie_score": 5,
+    "countries": [
+      "Italy"
+    ],
+    "decade": 1980,
+    "connections": []
+  },
+  {
+    "title": "Don't Look Now",
+    "fulfilled_categories": [
+      "Alternate versions",
+      "Donald Sutherland",
+      "Italian"
+    ],
+    "movie_score": 7,
+    "countries": [
+      "United Kingdom",
+      "Italy"
+    ],
+    "decade": 1970,
+    "connections": []
+  },
+  {
+    "title": "The Texas Chainsaw Massacre 2",
+    "fulfilled_categories": [
+      "Horror comedies",
+      "Alternate versions",
+      "Tobe Hooper",
+      "Made in Texas"
+    ],
+    "movie_score": 6,
+    "countries": [
+      "United States"
+    ],
+    "decade": 1980,
+    "connections": [
+      "The Texas Chain Saw Massacre",
+      "Leatherface: Texas Chainsaw Massacre III",
+      "Texas Chainsaw Massacre: The Next Generation",
+      "The Texas Chainsaw Massacre",
+      "The Texas Chainsaw Massacre: The Beginning",
+      "Texas Chainsaw"
+    ]
+  },
+  {
+    "title": "Lifeforce",
+    "fulfilled_categories": [
+      "Alternate versions",
+      "Tobe Hooper"
+    ],
+    "movie_score": 16,
+    "countries": [
+      "United Kingdom"
+    ],
+    "decade": 1980,
+    "connections": []
+  },
+  {
+    "title": "The Front Room",
+    "fulfilled_categories": [
+      "Starring a black woman"
+    ],
+    "movie_score": 1,
+    "countries": [
+      "United States"
+    ],
+    "decade": 2020,
+    "connections": []
+  },
+  {
+    "title": "Night of the Demons",
+    "fulfilled_categories": [
+      "Horror comedies",
+      "Horror franchise",
+      "Alternate versions"
+    ],
+    "movie_score": 7,
+    "countries": [
+      "United States"
+    ],
+    "decade": 1980,
+    "connections": [
+      "Night of the Demons 2",
+      "Night of the Demons III"
+    ]
+  },
+  {
+    "title": "Deep Red",
+    "fulfilled_categories": [
+      "Alternate versions",
+      "Italian"
+    ],
+    "movie_score": 5,
+    "countries": [
+      "Italy"
+    ],
+    "decade": 1970,
+    "connections": []
+  },
+  {
+    "title": "Ganja & Hess",
+    "fulfilled_categories": [
+      "Alternate versions",
+      "Starring a black woman"
+    ],
+    "movie_score": 2,
+    "countries": [
+      "United States"
+    ],
+    "decade": 1970,
+    "connections": []
+  },
+  {
+    "title": "New Nightmare",
+    "fulfilled_categories": [
+      "Wes Craven"
+    ],
+    "movie_score": 2,
+    "countries": [
+      "United States"
+    ],
+    "decade": 1990,
+    "connections": [
+      "A Nightmare on Elm Street",
+      "A Nightmare on Elm Street 2: Freddy's Revenge",
+      "A Nightmare on Elm Street 3: Dream Warriors",
+      "A Nightmare on Elm Street 4: The Dream Master",
+      "A Nightmare on Elm Street: The Dream Child"
+    ]
+  },
+  {
+    "title": "Pet Sematary: Bloodlines",
+    "fulfilled_categories": [
+      "Starring a black woman"
+    ],
+    "movie_score": 1,
+    "countries": [
+      "United States"
+    ],
+    "decade": 2020,
+    "connections": []
+  },
+  {
+    "title": "Scream Blacula Scream",
+    "fulfilled_categories": [
+      "Starring a black woman"
+    ],
+    "movie_score": 11,
+    "countries": [
+      "United States"
+    ],
+    "decade": 1970,
+    "connections": [
+      "Blacula"
+    ]
+  },
+  {
+    "title": "Club Dread",
+    "fulfilled_categories": [
+      "Horror comedies",
+      "Alternate versions"
+    ],
+    "movie_score": 2,
+    "countries": [
+      "United States",
+      "Mexico"
+    ],
+    "decade": 2000,
+    "connections": []
+  },
+  {
+    "title": "Shocker",
+    "fulfilled_categories": [
+      "Horror comedies",
+      "Alternate versions",
+      "Wes Craven"
+    ],
+    "movie_score": 4,
+    "countries": [
+      "United States"
+    ],
+    "decade": 1980,
+    "connections": []
+  },
+  {
+    "title": "We Need to Do Something",
+    "fulfilled_categories": [
+      "Worsened by weather"
+    ],
+    "movie_score": 1,
+    "countries": [
+      "United States"
+    ],
+    "decade": 2020,
+    "connections": []
+  },
+  {
+    "title": "Wind Chill",
+    "fulfilled_categories": [],
+    "movie_score": 0,
+    "countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "decade": 2000,
+    "connections": []
+  },
+  {
+    "title": "Black Sabbath",
+    "fulfilled_categories": [
+      "Alternate versions",
+      "Italian"
+    ],
+    "movie_score": 3,
+    "countries": [
+      "Italy",
+      "France",
+      "United States"
+    ],
+    "decade": 1960,
+    "connections": []
+  },
+  {
+    "title": "A Bay of Blood",
+    "fulfilled_categories": [
+      "Alternate versions",
+      "Italian"
+    ],
+    "movie_score": 2,
+    "countries": [
+      "Italy"
+    ],
+    "decade": 1970,
+    "connections": []
+  },
+  {
+    "title": "Gothika",
+    "fulfilled_categories": [
+      "Starring a black woman"
+    ],
+    "movie_score": 2,
+    "countries": [
+      "United States",
+      "France",
+      "Canada",
+      "Spain"
+    ],
+    "decade": 2000,
+    "connections": []
+  },
+  {
+    "title": "Antebellum",
+    "fulfilled_categories": [
+      "Starring a black woman"
+    ],
+    "movie_score": 1,
+    "countries": [
+      "United States"
+    ],
+    "decade": 2020,
+    "connections": []
+  },
+  {
+    "title": "Apartment 7A",
+    "fulfilled_categories": [],
+    "movie_score": 0,
+    "countries": [
+      "United States",
+      "Australia",
+      "United Kingdom"
+    ],
+    "decade": 2020,
+    "connections": [
+      "Rosemary's Baby",
+      "Look What's Happened to Rosemary's Baby"
+    ]
+  },
+  {
+    "title": "Tremors",
+    "fulfilled_categories": [
+      "Horror comedies",
+      "Alternate versions"
+    ],
+    "movie_score": 3,
+    "countries": [
+      "United States"
+    ],
+    "decade": 1990,
+    "connections": [
+      "Tremors II: Aftershocks",
+      "Tremors 3: Back to Perfection",
+      "Tremors 4: The Legend Begins",
+      "Tremors 5: Bloodlines",
+      "Tremors: A Cold Day in Hell"
+    ]
+  },
+  {
+    "title": "The Brood",
+    "fulfilled_categories": [
+      "Alternate versions"
+    ],
+    "movie_score": 3,
+    "countries": [
+      "Canada"
+    ],
+    "decade": 1970,
+    "connections": []
+  },
+  {
+    "title": "Stree",
+    "fulfilled_categories": [
+      "Horror comedies",
+      "Indian"
+    ],
+    "movie_score": 2,
+    "countries": [
+      "India"
+    ],
+    "decade": 2010,
+    "connections": []
+  },
+  {
+    "title": "Bhoot",
+    "fulfilled_categories": [
+      "Indian"
+    ],
+    "movie_score": 2,
+    "countries": [
+      "India"
+    ],
+    "decade": 2000,
+    "connections": [
+      "Bhoot Returns"
+    ]
+  },
+  {
+    "title": "Cannibal Holocaust",
+    "fulfilled_categories": [
+      "Alternate versions",
+      "Italian"
+    ],
+    "movie_score": 4,
+    "countries": [
+      "Italy"
+    ],
+    "decade": 1980,
+    "connections": [
+      "Last Cannibal World",
+      "Cut and Run"
+    ]
+  },
+  {
+    "title": "The House with Laughing Windows",
+    "fulfilled_categories": [
+      "Italian"
+    ],
+    "movie_score": 1,
+    "countries": [
+      "Italy"
+    ],
+    "decade": 1970,
+    "connections": []
+  },
+  {
+    "title": "Race with the Devil",
+    "fulfilled_categories": [
+      "Alternate versions",
+      "Made in Texas"
+    ],
+    "movie_score": 3,
+    "countries": [
+      "United States"
+    ],
+    "decade": 1970,
+    "connections": []
+  },
+  {
+    "title": "Blood Suckers from Outer Space",
+    "fulfilled_categories": [
+      "Horror comedies",
+      "From 1984",
+      "Made in Texas"
+    ],
+    "movie_score": 3,
+    "countries": [
+      "United States"
+    ],
+    "decade": 1980,
+    "connections": []
+  },
+  {
+    "title": "Genuine: The Tragedy of a Vampire",
+    "fulfilled_categories": [
+      "Robert Wiene"
+    ],
+    "movie_score": 13,
+    "countries": [
+      "Germany"
+    ],
+    "decade": 1920,
+    "connections": []
+  },
+  {
+    "title": "StageFright",
+    "fulfilled_categories": [
+      "Alternate versions",
+      "Italian",
+      "Michele Soavi"
+    ],
+    "movie_score": 7,
+    "countries": [
+      "Italy"
+    ],
+    "decade": 1980,
+    "connections": []
+  },
+  {
+    "title": "Livid",
+    "fulfilled_categories": [
+      "From 2011"
+    ],
+    "movie_score": 2,
+    "countries": [
+      "France"
+    ],
+    "decade": 2010,
+    "connections": []
+  },
+  {
+    "title": "Red State",
+    "fulfilled_categories": [
+      "From 2011"
+    ],
+    "movie_score": 1,
+    "countries": [
+      "United States"
+    ],
+    "decade": 2010,
+    "connections": []
+  },
+  {
+    "title": "Godzilla vs. Hedorah",
+    "fulfilled_categories": [
+      "Alternate versions"
+    ],
+    "movie_score": 1,
+    "countries": [
+      "Japan",
+      "United States"
+    ],
+    "decade": 1970,
+    "connections": [
+      "Godzilla",
+      "Godzilla Raids Again",
+      "King Kong vs. Godzilla",
+      "Mothra vs. Godzilla",
+      "Ghidorah, the Three-Headed Monster",
+      "Godzilla vs. Gigan",
+      "Godzilla vs. Megalon",
+      "Godzilla vs. Mechagodzilla",
+      "Terror of Mechagodzilla",
+      "The Return of Godzilla"
+    ]
+  },
+  {
+    "title": "Creature from the Black Lagoon",
+    "fulfilled_categories": [
+      "Alternate versions"
+    ],
+    "movie_score": 2,
+    "countries": [
+      "United States"
+    ],
+    "decade": 1950,
+    "connections": [
+      "Revenge of the Creature",
+      "The Creature Walks Among Us"
+    ]
+  },
+  {
+    "title": "Audition",
+    "fulfilled_categories": [
+      "Alternate versions"
+    ],
+    "movie_score": 1,
+    "countries": [
+      "Japan",
+      "South Korea"
+    ],
+    "decade": 1990,
+    "connections": []
+  },
+  {
+    "title": "The Wicker Man",
+    "fulfilled_categories": [
+      "Alternate versions"
+    ],
+    "movie_score": 3,
+    "countries": [
+      "United Kingdom"
+    ],
+    "decade": 1970,
+    "connections": [
+      "The Wicker Tree"
+    ]
+  },
+  {
+    "title": "Re-Animator",
+    "fulfilled_categories": [
+      "Horror comedies",
+      "Alternate versions"
+    ],
+    "movie_score": 5,
+    "countries": [
+      "United States"
+    ],
+    "decade": 1980,
+    "connections": [
+      "Bride of Re-Animator",
+      "Beyond Re-Animator"
+    ]
+  },
+  {
+    "title": "Invitation to Hell",
+    "fulfilled_categories": [],
+    "movie_score": 2,
+    "countries": [
+      "United Kingdom"
+    ],
+    "decade": 1980,
+    "connections": []
+  },
+  {
+    "title": "Deadly Blessing",
+    "fulfilled_categories": [
+      "Alternate versions",
+      "Wes Craven",
+      "Made in Texas"
+    ],
+    "movie_score": 5,
+    "countries": [
+      "United States"
+    ],
+    "decade": 1980,
+    "connections": []
+  },
+  {
+    "title": "Dr. Terror's House of Horrors",
+    "fulfilled_categories": [
+      "Alternate versions",
+      "Donald Sutherland"
+    ],
+    "movie_score": 4,
+    "countries": [
+      "United Kingdom"
+    ],
+    "decade": 1960,
+    "connections": [
+      "The Psychopath",
+      "Torture Garden",
+      "The House That Dripped Blood",
+      "Tales from the Crypt",
+      "Asylum"
+    ]
+  },
+  {
+    "title": "Alone",
+    "fulfilled_categories": [],
+    "movie_score": 1,
+    "countries": [
+      "United States"
+    ],
+    "decade": 2020,
+    "connections": []
+  },
+  {
+    "title": "The Rosary Murders",
+    "fulfilled_categories": [
+      "Donald Sutherland"
+    ],
+    "movie_score": 2,
+    "countries": [
+      "United States"
+    ],
+    "decade": 1980,
+    "connections": []
+  },
+  {
+    "title": "Storm of the Century",
+    "fulfilled_categories": [
+      "Worsened by weather"
+    ],
+    "movie_score": 3,
+    "countries": [
+      "Canada",
+      "United States"
+    ],
+    "decade": 1990,
+    "connections": []
+  },
+  {
+    "title": "Antarctic Journal",
+    "fulfilled_categories": [
+      "Worsened by weather"
+    ],
+    "movie_score": 2,
+    "countries": [
+      "South Korea"
+    ],
+    "decade": 2000,
+    "connections": []
+  },
+  {
+    "title": "Cemetery Man",
+    "fulfilled_categories": [
+      "Horror comedies",
+      "Alternate versions",
+      "Italian",
+      "Michele Soavi"
+    ],
+    "movie_score": 6,
+    "countries": [
+      "Italy",
+      "France",
+      "Germany"
+    ],
+    "decade": 1990,
+    "connections": []
+  },
+  {
+    "title": "The Faculty",
+    "fulfilled_categories": [
+      "Alternate versions",
+      "Made in Texas"
+    ],
+    "movie_score": 5,
+    "countries": [
+      "United States",
+      "Mexico"
+    ],
+    "decade": 1990,
+    "connections": []
+  },
+  {
+    "title": "The Dark and the Wicked",
+    "fulfilled_categories": [
+      "Made in Texas"
+    ],
+    "movie_score": 3,
+    "countries": [
+      "United States"
+    ],
+    "decade": 2020,
+    "connections": []
+  },
+  {
+    "title": "Teeth",
+    "fulfilled_categories": [
+      "Horror comedies",
+      "Made in Texas"
+    ],
+    "movie_score": 4,
+    "countries": [
+      "United States"
+    ],
+    "decade": 2000,
+    "connections": []
+  },
+  {
+    "title": "VFW",
+    "fulfilled_categories": [
+      "Made in Texas"
+    ],
+    "movie_score": 3,
+    "countries": [
+      "United States"
+    ],
+    "decade": 2010,
+    "connections": []
+  },
+  {
+    "title": "Angst",
+    "fulfilled_categories": [
+      "Alternate versions"
+    ],
+    "movie_score": 4,
+    "countries": [
+      "Austria"
+    ],
+    "decade": 1980,
+    "connections": []
+  },
+  {
+    "title": "Letter from a Filmmaker. Seven Pieces on Black & White Cinema",
+    "fulfilled_categories": [],
+    "movie_score": 0,
+    "countries": [
+      "France"
+    ],
+    "decade": 1980,
+    "connections": []
+  },
+  {
+    "title": "The Innkeepers",
+    "fulfilled_categories": [
+      "From 2011"
+    ],
+    "movie_score": 2,
+    "countries": [
+      "United States"
+    ],
+    "decade": 2010,
+    "connections": []
+  },
+  {
+    "title": "Absentia",
+    "fulfilled_categories": [
+      "From 2011"
+    ],
+    "movie_score": 2,
+    "countries": [
+      "United States"
+    ],
+    "decade": 2010,
+    "connections": []
+  },
+  {
+    "title": "Bhool Bhulaiyaa",
+    "fulfilled_categories": [
+      "Horror comedies",
+      "Indian"
+    ],
+    "movie_score": 3,
+    "countries": [
+      "India"
+    ],
+    "decade": 2000,
+    "connections": []
+  },
+  {
+    "title": "The Toxic Avenger",
+    "fulfilled_categories": [
+      "Horror comedies",
+      "From 1984",
+      "Alternate versions"
+    ],
+    "movie_score": 4,
+    "countries": [
+      "United States"
+    ],
+    "decade": 1980,
+    "connections": [
+      "The Toxic Avenger Part II",
+      "The Toxic Avenger Part III: The Last Temptation of Toxie",
+      "Citizen Toxie: The Toxic Avenger IV"
+    ]
+  },
+  {
+    "title": "Wendigo",
+    "fulfilled_categories": [
+      "From 2011"
+    ],
+    "movie_score": 1,
+    "countries": [
+      "United States"
+    ],
+    "decade": 2010,
+    "connections": []
+  },
+  {
+    "title": "Twixt",
+    "fulfilled_categories": [
+      "Horror comedies",
+      "From 2011"
+    ],
+    "movie_score": 3,
+    "countries": [
+      "United States"
+    ],
+    "decade": 2010,
+    "connections": []
+  },
+  {
+    "title": "The Divide",
+    "fulfilled_categories": [
+      "From 2011",
+      "Alternate versions"
+    ],
+    "movie_score": 3,
+    "countries": [
+      "United States",
+      "Germany",
+      "Canada",
+      "France"
+    ],
+    "decade": 2010,
+    "connections": []
+  },
+  {
+    "title": "Tumbbad",
+    "fulfilled_categories": [
+      "Indian"
+    ],
+    "movie_score": 1,
+    "countries": [
+      "India",
+      "Sweden"
+    ],
+    "decade": 2010,
+    "connections": []
+  },
+  {
+    "title": "Lake Placid",
+    "fulfilled_categories": [
+      "Horror comedies",
+      "Horror franchise"
+    ],
+    "movie_score": 3,
+    "countries": [
+      "United States",
+      "Canada"
+    ],
+    "decade": 1990,
+    "connections": [
+      "Lake Placid 2",
+      "Lake Placid 3",
+      "Lake Placid: The Final Chapter",
+      "Lake Placid vs. Anaconda",
+      "Lake Placid: Legacy"
+    ]
+  },
+  {
+    "title": "House",
+    "fulfilled_categories": [
+      "Horror comedies",
+      "Horror franchise",
+      "New World Pictures"
+    ],
+    "movie_score": 5,
+    "countries": [
+      "United States"
+    ],
+    "decade": 1980,
+    "connections": [
+      "House II: The Second Story",
+      "House III: The Horror Show",
+      "House IV"
+    ]
+  },
+  {
+    "title": "The Frighteners",
+    "fulfilled_categories": [
+      "Horror comedies",
+      "Alternate versions"
+    ],
+    "movie_score": 3,
+    "countries": [
+      "New Zealand",
+      "United States"
+    ],
+    "decade": 1990,
+    "connections": []
+  },
+  {
+    "title": "What We Do in the Shadows",
+    "fulfilled_categories": [
+      "Horror comedies"
+    ],
+    "movie_score": 3,
+    "countries": [
+      "New Zealand",
+      "United States"
+    ],
+    "decade": 2010,
+    "connections": []
+  },
+  {
+    "title": "Phantasm",
+    "fulfilled_categories": [
+      "Alternate versions"
+    ],
+    "movie_score": 1,
+    "countries": [
+      "United States"
+    ],
+    "decade": 1970,
+    "connections": [
+      "Phantasm II",
+      "Phantasm III: Lord of the Dead",
+      "Phantasm IV: Oblivion",
+      "Phantasm: Ravager"
+    ]
+  },
+  {
+    "title": "Pumpkinhead",
+    "fulfilled_categories": [],
+    "movie_score": 1,
+    "countries": [
+      "United States"
+    ],
+    "decade": 1980,
+    "connections": [
+      "Pumpkinhead II: Blood Wings",
+      "Pumpkinhead: Ashes to Ashes",
+      "Pumpkinhead 4: Blood Feud"
+    ]
+  },
+  {
+    "title": "Subspecies",
+    "fulfilled_categories": [
+      "Horror franchise"
+    ],
+    "movie_score": 1,
+    "countries": [
+      "United States",
+      "Romania"
+    ],
+    "decade": 1990,
+    "connections": [
+      "Bloodstone: Subspecies II",
+      "Bloodlust: Subspecies III",
+      "Subspecies 4: Bloodstorm",
+      "Subspecies V: Bloodrise"
+    ]
+  },
+  {
+    "title": "Hatchet",
+    "fulfilled_categories": [
+      "Horror comedies",
+      "Alternate versions"
+    ],
+    "movie_score": 3,
+    "countries": [
+      "United States"
+    ],
+    "decade": 2000,
+    "connections": [
+      "Hatchet II",
+      "Hatchet III",
+      "Victor Crowley"
+    ]
+  }
+]

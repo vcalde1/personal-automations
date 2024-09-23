@@ -1,5 +1,10 @@
-
 hooptober_criteria = {
+    "criteria titles": ['Horror Franchise', '1 film by Wes Craven', '1 film caused by, worsened by weather',
+                        '1 film starring a Black woman', '1 Donald Sutherland film', '3 films from New World Pictures.',
+                        '2 Indian films.', '4 Italian films', '2 Horror comedies',
+                        '2 films made primarily or entirely in Texas',
+                        '1 film that exists in at least 2 available cuts', '1 Robert Wiene film',
+                        '1 Michele Soavi film', '1 film from 2011', '1 film from 1984', '1 Tobe Hooper Film'],
     "directors": {
         "requirements": {
             "Tobe Hooper": {"count": 1},

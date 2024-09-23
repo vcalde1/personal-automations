@@ -1,0 +1,128 @@
+[
+  [
+    "Lifeforce",
+    "Scream Blacula Scream",
+    "Genuine: The Tragedy of a Vampire",
+    "House",
+    "House III: The Horror Show",
+    "House IV",
+    "House II: The Second Story",
+    "The Texas Chainsaw Massacre 2",
+    "Cannibal Holocaust",
+    "Cemetery Man",
+    "Blood Suckers from Outer Space",
+    "Bhoot",
+    "The Divide",
+    "Scream Blacula Scream",
+    "Don't Look Now",
+    "The Dark and the Wicked",
+    "Deadly Blessing",
+    "Pet Sematary: Bloodlines",
+    "The House with Laughing Windows",
+    "The Frighteners",
+    "Angst",
+    "Wendigo",
+    "Subspecies",
+    "Bhool Bhulaiyaa",
+    "Lake Placid",
+    "Club Dread",
+    "Storm of the Century",
+    "Antebellum",
+    "Race with the Devil",
+    "Audition",
+    "Re-Animator",
+    "Creepshow 2"
+  ],
+  [
+    {
+      "name": "Horror comedies",
+      "required": 2,
+      "fulfilled": 9
+    },
+    {
+      "name": "8 Decades",
+      "required": 8,
+      "fulfilled": 7
+    },
+    {
+      "name": "6 Countries",
+      "required": 6,
+      "fulfilled": 13
+    },
+    {
+      "name": "Wes Craven",
+      "required": 1,
+      "fulfilled": 1
+    },
+    {
+      "name": "Horror franchise",
+      "required": 1,
+      "fulfilled": 3
+    },
+    {
+      "name": "Worsened by weather",
+      "required": 1,
+      "fulfilled": 1
+    },
+    {
+      "name": "New World Pictures",
+      "required": 3,
+      "fulfilled": 2
+    },
+    {
+      "name": "Starring a black woman",
+      "required": 1,
+      "fulfilled": 3
+    },
+    {
+      "name": "Donald Sutherland",
+      "required": 1,
+      "fulfilled": 1
+    },
+    {
+      "name": "Indian",
+      "required": 2,
+      "fulfilled": 2
+    },
+    {
+      "name": "Italian",
+      "required": 4,
+      "fulfilled": 4
+    },
+    {
+      "name": "Made in Texas",
+      "required": 2,
+      "fulfilled": 5
+    },
+    {
+      "name": "Alternate versions",
+      "required": 1,
+      "fulfilled": 14
+    },
+    {
+      "name": "Robert Wiene",
+      "required": 1,
+      "fulfilled": 1
+    },
+    {
+      "name": "Michele Soavi",
+      "required": 1,
+      "fulfilled": 1
+    },
+    {
+      "name": "From 1984",
+      "required": 1,
+      "fulfilled": 1
+    },
+    {
+      "name": "From 2011",
+      "required": 1,
+      "fulfilled": 2
+    },
+    {
+      "name": "Tobe Hooper",
+      "required": 1,
+      "fulfilled": 2
+    }
+  ]
+]

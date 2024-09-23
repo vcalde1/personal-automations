@@ -1,0 +1,52 @@
+[
+  {
+    "title": "House III: The Horror Show",
+    "fulfilled_categories": [
+      "Alternate versions"
+    ],
+    "movie_score": 0,
+    "countries": [
+      "United States"
+    ],
+    "decade": 1980,
+    "connections": [
+      "House",
+      "House II: The Second Story",
+      "House IV"
+    ]
+  },
+  {
+    "title": "House IV",
+    "fulfilled_categories": [
+      "Alternate versions"
+    ],
+    "movie_score": 0,
+    "countries": [
+      "United States"
+    ],
+    "decade": 1990,
+    "connections": [
+      "House",
+      "House II: The Second Story",
+      "House III: The Horror Show"
+    ]
+  },
+  {
+    "title": "House II: The Second Story",
+    "fulfilled_categories": [
+      "Horror comedies",
+      "Alternate versions",
+      "New World Pictures"
+    ],
+    "movie_score": 2,
+    "countries": [
+      "United States"
+    ],
+    "decade": 1980,
+    "connections": [
+      "House",
+      "House III: The Horror Show",
+      "House IV"
+    ]
+  }
+]
