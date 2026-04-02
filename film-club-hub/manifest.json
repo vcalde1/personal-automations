@@ -2,7 +2,7 @@
   "name": "Film Club Hub",
   "short_name": "Film Club",
   "description": "Hub for managing a weekly film club",
-  "start_url": "/film-club-hub/index.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#1a1a2e",
   "theme_color": "#e94560",

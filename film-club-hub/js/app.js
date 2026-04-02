@@ -850,5 +850,5 @@ function resetData() {
 
 // ===== Service Worker Registration =====
 if ('serviceWorker' in navigator) {
-  navigator.serviceWorker.register('/film-club-hub/sw.js').catch(() => {});
+  navigator.serviceWorker.register('./sw.js').catch(() => {});
 }

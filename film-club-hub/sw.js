@@ -1,10 +1,11 @@
 const CACHE_NAME = 'film-club-hub-v1';
 const ASSETS = [
-  '/film-club-hub/index.html',
-  '/film-club-hub/css/styles.css',
-  '/film-club-hub/js/data.js',
-  '/film-club-hub/js/app.js',
-  '/film-club-hub/manifest.json'
+  './',
+  './index.html',
+  './css/styles.css',
+  './js/data.js',
+  './js/app.js',
+  './manifest.json'
 ];
 
 self.addEventListener('install', (event) => {
