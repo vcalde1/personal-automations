@@ -154,14 +154,28 @@ function renderDashboard() {
     }
   }
 
-  // Recent announcements
-  const recentAnn = Announcements.getAll().slice(0, 2);
-  if (recentAnn.length) {
-    html += `<h3 style="margin: 1.5rem 0 0.75rem; color: var(--text-secondary); font-size: 0.85rem; text-transform: uppercase; letter-spacing: 1px;">Latest Announcements</h3>`;
-    for (const a of recentAnn) {
-      html += `<div class="card${a.pinned ? ' card--highlight' : ''}">
-        <div class="card__title">${escapeHtml(a.title)}</div>
-        <div class="card__body" style="margin-top:0.5rem">${escapeHtml(a.body).slice(0, 150)}${a.body.length > 150 ? '...' : ''}</div>
+  // Roles & Tasks summary
+  if (roles.length) {
+    html += `<h3 style="margin: 1.5rem 0 0.75rem; color: var(--text-secondary); font-size: 0.85rem; text-transform: uppercase; letter-spacing: 1px;">Roles &amp; Tasks</h3>`;
+    for (const role of roles) {
+      const assignee = role.assigneeId ? Members.getName(role.assigneeId) : 'Unassigned';
+      const openTasks = role.tasks.filter(t => !t.done);
+      const doneCount = role.tasks.length - openTasks.length;
+      html += `<div class="card">
+        <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:${openTasks.length ? '0.5rem' : '0'}">
+          <div>
+            <div class="card__title">${escapeHtml(role.name)}</div>
+            <div class="card__meta">${assignee === 'Unassigned' ? '<em>Unassigned</em>' : escapeHtml(assignee)}${role.tasks.length ? ` &mdash; ${doneCount}/${role.tasks.length} done` : ''}</div>
+          </div>
+        </div>
+        ${openTasks.length ? `<div style="border-top:1px solid var(--border); padding-top:0.5rem;">${openTasks.slice(0, 3).map(t => {
+          const overdue = t.dueDate && t.dueDate < new Date().toISOString().slice(0, 10);
+          return `<div style="display:flex; align-items:center; gap:0.5rem; padding:0.2rem 0; font-size:0.85rem; color:var(--text-secondary);">
+            <span style="color:var(--text-muted);">&#9675;</span>
+            <span>${escapeHtml(t.text)}</span>
+            ${t.dueDate ? `<span style="margin-left:auto; font-size:0.7rem; color:${overdue ? 'var(--danger)' : 'var(--text-muted)'}">${formatDateShort(t.dueDate)}</span>` : ''}
+          </div>`;
+        }).join('')}${openTasks.length > 3 ? `<div style="font-size:0.75rem; color:var(--text-muted); margin-top:0.25rem;">+${openTasks.length - 3} more</div>` : ''}</div>` : ''}
       </div>`;
     }
   }
