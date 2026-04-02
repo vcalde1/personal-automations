@@ -104,21 +104,6 @@ function renderDashboard() {
   const roles = Roles.getAll();
   const pendingTasks = roles.reduce((n, r) => n + r.tasks.filter(t => !t.done).length, 0);
 
-  let html = `<div class="dashboard-grid">
-    <div class="stat-card">
-      <div class="stat-card__value">${members.length}</div>
-      <div class="stat-card__label">Members</div>
-    </div>
-    <div class="stat-card">
-      <div class="stat-card__value">${totalFilms}</div>
-      <div class="stat-card__label">Films Watched</div>
-    </div>
-    <div class="stat-card">
-      <div class="stat-card__value">${pendingTasks}</div>
-      <div class="stat-card__label">Open Tasks</div>
-    </div>
-  </div>`;
-
   if (current) {
     html += `<h3 style="margin-bottom: 0.75rem; color: var(--text-secondary); font-size: 0.85rem; text-transform: uppercase; letter-spacing: 1px;">This Week</h3>
     <div class="current-week">
