@@ -98,11 +98,10 @@ document.addEventListener('keydown', (e) => {
 function renderDashboard() {
   const container = document.getElementById('dashboard-content');
   const current = Schedule.getCurrentWeek();
-  const members = Members.getAll();
-  const totalFilms = Schedule.getAll().reduce((n, s) => n + (s.film1 ? 1 : 0) + (s.film2 ? 1 : 0), 0);
   const upcoming = Schedule.getUpcoming();
   const roles = Roles.getAll();
-  const pendingTasks = roles.reduce((n, r) => n + r.tasks.filter(t => !t.done).length, 0);
+
+  let html = '';
 
   if (current) {
     html += `<h3 style="margin-bottom: 0.75rem; color: var(--text-secondary); font-size: 0.85rem; text-transform: uppercase; letter-spacing: 1px;">This Week</h3>
